@@ -1,9 +1,9 @@
 //your JS code here. If required.
-let object={
-	student:'ali',
+let student={
+	name:'ali',
  getKeys:function(){}
 }
 
-let objectkeys=object.keys(object)
+let objectkeys=object.keys(student)
 
 console.log(objectkeys)
