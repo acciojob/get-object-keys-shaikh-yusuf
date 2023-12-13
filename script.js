@@ -4,6 +4,6 @@ let student={
  getKeys:function(){}
 }
 
-let objectkeys=object.keys(student)
+let objectkeys=Object.keys(student)
 
 console.log(objectkeys)
